@@ -1,0 +1,12 @@
+File : Slope.txt (in [mm]) 
+Created:  12:09:30    21-2-2023  
+Slope starts at Xorg, Yorg,z = Dmin 
+Minimmum depth Z = Dmin   0.00
+Maximum depth Z = Dmax    14.00
+Slope width (Xdirection) 33.00
+Slope length (Ydirection) 33.00
+Tool diameter             3.00
+Tool maximum length       20.00
+Vertical tool steps (DZz) 1.00
+Origin X        (Xorg)    0.00
+Origin Y        (Yorg)    0.00

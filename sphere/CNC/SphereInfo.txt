@@ -1,0 +1,17 @@
+File : SphereInfo.txt (in [mm]) 
+Created:  19:07:33    21-2-2023  
+Coarse Gcode file:  Spherecapcoarse.nc.  
+Final  Gcode file:  Spherecapfine.nc.  
+R total milling Radius 60.50
+Rm outer circle Radius 92.00
+Sphere depth             45.00
+Tool diameter coarse     6.00
+Tool diameter fine       1.50
+Material thickness (> H) 50.00
+Vertical steps  (coarse) 2.00
+Milling circles (coarse) 186.00
+Milling circles (fine)   121.00
+Sphere radius  (coarse)  60.17
+Sphere radius  (fine)    63.17
+Start milling x,y coarse 57.96
+Start milling x,y fine   9.15

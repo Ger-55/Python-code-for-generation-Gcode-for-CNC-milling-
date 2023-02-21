@@ -1,0 +1,11 @@
+File : VgrooveInfo.txt (in [mm]) 
+Created:  21:58:32    10-1-2023  
+Vgroove starts at Xorg, Yorg,z = D 
+Vgroove (60deg) depth (D) 10.40
+Vgroove length (Y)        70.00
+Tool diameter             3.00
+Tool maximum length       20.00
+Tool active length (60deg)2.00
+Vertical steps     (DZ)   0.95
+Origin X        (Xorg)    189.00
+Origin Y        (Yorg)    189.00
